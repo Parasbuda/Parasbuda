@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Paras Buda - aka [Parasbuda][website] 👋
 
 ## I'm a React JS Developer, who love to Code!!
 
