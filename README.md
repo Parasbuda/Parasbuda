@@ -1,7 +1,5 @@
 ### Hi there, I'm Paras Buda - aka [Parasbuda] [website] 👋
 
-[![Website](https://paras-portfolio.netlify.app/)]
-
 ## I'm a React JS Developer, who love to Code!!
 
 -  I'm currently working as a React Developer at Meraki Techs Pvt. Ltd.
