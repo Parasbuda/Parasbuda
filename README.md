@@ -2,7 +2,7 @@
 
 ## I'm a React JS Developer, who love to Code!!
 
--  I'm currently working as a React Developer at Meraki Techs Pvt. Ltd.
+-  I'm currently working as a React Developer at Soori Techs Pvt. Ltd.
 -  I also design the app using HTML CSS Bootstrap too.
 -  Fun fact: I love to cook food and travel
 
