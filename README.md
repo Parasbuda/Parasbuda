@@ -1,6 +1,6 @@
 ### Hi there, I'm [Parasbuda][website] 👋
 
-## I'm a React JS Developer, who love to Code!!
+## I'm a React-Django,MERN Stack Developer, who love to Code!!
 
 -  I'm currently working as a React Developer at Soori Techs Pvt. Ltd.
 -  I also design the app using HTML CSS Bootstrap too.
