@@ -2,7 +2,7 @@
 
 ## I'm a React-Django,MERN Stack Developer, who love to Code!!
 
--  I'm currently working as a React Developer at Soori Techs Pvt. Ltd.
+-  I'm currently working as a Senior React Developer at Soori Technology Pvt. Ltd.
 -  I also design the app using HTML CSS Bootstrap too.
 -  Fun fact: I love to cook food and travel
 
