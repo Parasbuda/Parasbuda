@@ -1,6 +1,6 @@
 ### Hi there, I'm [Parasbuda][website] 👋
 
-## I'm a React-Django,MERN Stack Developer, who love to Code!!
+## I'm a React-Django,MERN Stack,SpringBoot, ZPL,RFID developer who love to Code!!
 
 -  I'm currently working as a Senior Developer at Soori Technology Pvt. Ltd.
 -  I also design the app using HTML CSS Bootstrap too.
